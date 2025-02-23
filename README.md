@@ -1,4 +1,4 @@
-# DeepSeeek官网入口：DeepSeek是什么？DeepSeek本地部署与使用指南！
+# 一分钟教会你，如何使用deepseek！deepseek入门教学
 
 > 更新：2025/02/21
 
