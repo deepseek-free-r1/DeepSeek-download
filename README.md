@@ -1,6 +1,6 @@
 # 一分钟教会你，如何使用deepseek！deepseek入门教学
 
-> 更新：2025/02/21
+> 更新：2025/02/25
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。  
 本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://snakegpt.work)、[**DeepSeek网页版**](https://snakegpt.work)、**API 使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
