@@ -1,9 +1,10 @@
 # 一分钟教会你，如何使用deepseek！deepseek入门教学
 
-> 更新：2025/02/25
+
+> 更新：2025/04/14
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。  
-本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://snakegpt.work)、[**DeepSeek网页版**](https://snakegpt.work)、**API 使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
+本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://snakegpt.chat)、[**DeepSeek网页版**](https://snakegpt.chat)、**API 使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -17,15 +18,15 @@
 
 ## DeepSeek 官网
 
-- **DeepSeek 网页版**：[官网【总是繁忙】](https://www.deepseek.com/) 、 [🔥官网平替（快速稳定）](https://snakegpt.work)
+- **DeepSeek 网页版**：[官网【总是繁忙】](https://www.deepseek.com/) 、 [🔥官网平替（快速稳定）](https://snakegpt.chat)
 - **DeepSeek 客户端**：[访问](https://download.deepseek.com/app/)
 - **DeepSeek API**：[访问](https://platform.deepseek.com/)
 - **服务器繁忙？查看状态**：[访问](https://status.deepseek.com/)
 
 ## 已接入 DeepSeek R1（官方平替）
 
-- **🔥蛇语AI**：[chat.snake.com](https://snakegpt.work) - **DeepSeek网页版**，支持 **DeepSeep R1满血版**、V3模型~
-- **AI猫**：[chat.catai.com](https://gptcat.net/) - 支持 **DeepSeep R1满血版**、ChatGPT、Claude、gork等大模型
+- **🔥蛇语AI**：[chat.snake.com](https://snakegpt.chat) - **DeepSeek网页版**，支持 **DeepSeep R1满血版**、V3模型~
+- **AI猫**：[chat.catai.com](https://gptcat.cc/) - 支持 **DeepSeep R1满血版**、ChatGPT、Claude、gork等大模型
 
 
 ## DeepSeek 入门指南
@@ -68,7 +69,7 @@
 - **🔥硅基流动 x 华为云**：[注册](https://cloud.siliconflow.cn/)
 - **微软 Azure**：[注册](https://ai.azure.com/)
 - **英伟达**：[注册](https://build.nvidia.com/deepseek-ai/deepseek-r1)
-- **Cloudflare**：[注册](https://developers.cloudflare.com/workers-ai/models/)
+- **Cloudflare**：[注册](https://developers.cloudflare.com/chaters-ai/models/)
 - **Gitee AI**：[注册](https://ai.gitee.com/serverless-api)
 - **亚马逊 AWS**：[注册](https://aws.amazon.com/cn/blogs/aws/deepseek-r1-models-now-available-on-aws)
 - **阿里云**：[注册](https://pai.console.aliyun.com/#/quick-start/) 、 [教程](https://help.aliyun.com/zh/pai/user-guide/one-click-deployment-deepseek-v3-model)
